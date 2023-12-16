@@ -1413,6 +1413,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 * [elasticsearch_elixir_bulk_processor](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
 * [giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
+* [snap](https://github.com/breakroom/snap) - An ElasticSearch/OpenSearch client, with some useful high level features.
 
 ## Security
 *Libraries and tools regarding security.*
